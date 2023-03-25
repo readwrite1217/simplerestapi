@@ -1,5 +1,4 @@
 # simplerestapi
 
-jaxr
-no webxm
-tomact for deployment
+jaxrs webxml
+tomcat for deployment
